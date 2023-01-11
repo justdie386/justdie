@@ -43,14 +43,14 @@
 
 	nav {
 		display: flex;
-		align-items: center;
+		align-items: start;
 		gap: 1rem;
 	}
 
 	main {
 		display: flex;
 		flex-direction: column;
-		align-items: start;
+		align-items: center;
 	}
 	button {
 		font-size: revert;
