@@ -18,8 +18,8 @@
         display: block;
         border-radius: 5px;
         outline: solid;
-        width: 100%;
-        margin: 100%;
+        width: 450px;
+        margin: 40px;
         padding: 2px 4px;
         text-align: center;
         font-family: JetBrains Mono, monospace;
