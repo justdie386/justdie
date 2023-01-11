@@ -18,7 +18,7 @@
         display: block;
         border-radius: 5px;
         outline: solid;
-	width: 100%;
+	width: 30%;
 	height: 100%;
         padding: 2px 4px;
         text-align: center;
