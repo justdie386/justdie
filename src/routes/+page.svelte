@@ -37,7 +37,7 @@
 		justify-content: stretch;
 		background-color: #24243f;
 		color: black;
-		font-family: JetBrains Mono;
+		font-family: JetBrains Mono, monospace;
 		overflow: hidden;
 	}
 
@@ -60,6 +60,7 @@
 		background-color: #282854;
 		color: black;
 		transition: ease 200ms;
+		font-family: JetBrains Mono, monospace;
 		box-shadow: 0 0 5px 1px black;
 	}
 	button:hover{
