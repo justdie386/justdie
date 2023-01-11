@@ -26,7 +26,7 @@
 	@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
 	:root,
 	body {
-		padding: 10px;
+		padding: 2px;
 		margin-left: auto;
 		margin-right: auto;
 		max-height: 100%;
@@ -43,7 +43,7 @@
 
 	nav {
 		display: flex;
-		gap: 0rem;
+		gap: 1rem;
 	}
 
 	main {
