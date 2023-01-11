@@ -41,6 +41,6 @@
 		margin-bottom: 10px;
 	}
     button:hover{
-		transform: background #561ed9;
+		background: #561ed9;
 	}
 </style>
