@@ -22,6 +22,7 @@
         margin: 16px;
         padding: 2px 4px;
         text-align: center;
+        font-family: JetBrains Mono;
         box-shadow: 0 0 5px 1px black;
 
     }
@@ -34,7 +35,6 @@
 		background-color: #282854;
 		color: black;
 		transition: ease 200ms;
-        font-family: JetBrains Mono;
 		box-shadow: 0 0 5px 1px black;
 	}
     button:hover{
