@@ -29,7 +29,7 @@
 		padding: 10px;
 		margin-left: auto;
 		margin-right: auto;
-		max-height: 100%;
+		height: 100%;
 		width: 100%;
 		display: flex;
 		flex-direction: column;
@@ -45,6 +45,8 @@
 		display: flex;
 		align-items: start;
 		gap: 1rem;
+		height: 100%;
+		width: 100%;
 	}
 
 	main {
