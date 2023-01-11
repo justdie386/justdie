@@ -50,7 +50,7 @@
 	main {
 		display: flex;
 		flex-direction: column;
-		align-items: center;
+		align-items: start;
 	}
 	button {
 		font-size: revert;
