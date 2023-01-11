@@ -18,11 +18,10 @@
         display: block;
         border-radius: 5px;
         outline: solid;
-	width: 30%;
-	height: 130%;
+        width: 450px;
+        margin: 16px;
         padding: 2px 4px;
         text-align: center;
-        font-family: JetBrains Mono, monospace;
         box-shadow: 0 0 5px 1px black;
 
     }
