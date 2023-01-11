@@ -43,7 +43,7 @@
 
 	nav {
 		display: flex;
-		align-items: start;
+		align-items: center;
 		gap: 1rem;
 	}
 
