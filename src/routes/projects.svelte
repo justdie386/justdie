@@ -37,6 +37,7 @@
 		transition: ease 200ms;
         font-family: JetBrains Mono;
 		box-shadow: 0 0 5px 1px black;
+		margin-top: 10px;
 	}
     button:hover{
 		transform: scale(120%);
