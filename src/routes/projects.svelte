@@ -19,7 +19,7 @@
         border-radius: 5px;
         outline: solid;
 	width: 30%;
-	height: 100%;
+	height: 130%;
         padding: 2px 4px;
         text-align: center;
         font-family: JetBrains Mono, monospace;
