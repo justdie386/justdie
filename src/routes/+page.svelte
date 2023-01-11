@@ -23,6 +23,7 @@
 </body>
 
 <style>
+	@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
 	:root,
 	body {
 		padding: 10px;
@@ -36,7 +37,7 @@
 		justify-content: stretch;
 		background-color: #24243f;
 		color: black;
-		font-family: JetBrains Mono, monospace;
+		font-family: JetBrains Mono;
 		overflow: hidden;
 	}
 

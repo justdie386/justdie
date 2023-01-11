@@ -13,6 +13,7 @@
 </div>
 
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
     div {
         display: block;
         border-radius: 5px;
@@ -33,6 +34,7 @@
 		background-color: #282854;
 		color: black;
 		transition: ease 200ms;
+        font-family: JetBrains Mono;
 		box-shadow: 0 0 5px 1px black;
 	}
     button:hover{
