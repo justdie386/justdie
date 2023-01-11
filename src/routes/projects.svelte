@@ -28,8 +28,8 @@
     }
 	button {
 		font-size: revert;
-		width: 100px;
-		height: 40px;
+		max-width: 100px;
+		max-height: 40px;
 		border-radius: 5px;
 		border: none;
 		background-color: #282854;
