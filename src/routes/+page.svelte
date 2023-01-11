@@ -26,7 +26,7 @@
 	@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
 	:root,
 	body {
-		padding: 2px;
+		padding: 10px;
 		margin-left: auto;
 		margin-right: auto;
 		max-height: 100%;
@@ -49,7 +49,7 @@
 	main {
 		display: flex;
 		flex-direction: column;
-		align-items: center;
+		align-items: start;
 	}
 	button {
 		font-size: revert;
