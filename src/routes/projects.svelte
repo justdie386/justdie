@@ -1,13 +1,13 @@
 <h2>My projects</h2>
-<button>Hidy</button>
+<button onclick="location.href='https://github.com/justdie386/hidy';" target="_blank">Hidy</button>
 <div>
     Hidy is my most recent project, it is an iOS tweak that allows you to hide multiple aspects of your device's homescreen, lockscreen, and topbar
 </div>
-<button>Milky Terry</button>
+<button onclick="location.href='https://github.com/justdie386/Milky-terry';" target="_blank">Milky Terry</button>
 <div>
     This project was one of my very first, this is a discord bot written in lua, which uses sqlite and button components, sadly, i lost the important parts of the code, but i will still link the github
 </div>
-<button onclick="location.href='https://github.com/justdie386/justdie';" >Bot Creator</button>
+<button onclick="location.href='https://github.com/justdie386/bot-creator';" target="_blank">Bot Creator</button>
 <div>
     This project is a gui for windows only written in lua that allows you to easely self host a bot i made, and it allows you to customise it throught settings, so people would not need to have any programming knowledge to use it
 </div>
