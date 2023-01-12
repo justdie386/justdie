@@ -27,8 +27,8 @@
     }
 	button {
 		font-size: revert;
-		max-width: 5%;
-		max-height: 2%;
+		max-width: 100px;
+		max-height: 40px;
 		border-radius: 5px;
 		border: none;
 		background-color: #282854;
