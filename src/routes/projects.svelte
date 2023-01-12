@@ -7,7 +7,7 @@
 <div>
     This project was one of my very first, this is a discord bot written in lua, which uses sqlite and button components, sadly, i lost the important parts of the code, but i will still link the github
 </div>
-<button>Bot Creator</button>
+<button onclick="location.href='https://github.com/justdie386/justdie';" >Bot Creator</button>
 <div>
     This project is a gui for windows only written in lua that allows you to easely self host a bot i made, and it allows you to customise it throught settings, so people would not need to have any programming knowledge to use it
 </div>
