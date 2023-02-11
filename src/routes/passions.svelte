@@ -1,3 +1,4 @@
+<h2>My projects</h2>
 <div>
     I love making gui, and i really like making discord bots.
 </div>
