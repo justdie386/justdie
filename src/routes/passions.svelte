@@ -1,4 +1,4 @@
-<h2>My projects</h2>
+<h2>My passions</h2>
 <div>
     I love making gui, and i really like making discord bots.
 </div>
@@ -13,6 +13,5 @@
         padding: 2px 4px;
         text-align: center;
         box-shadow: 0 0 5px 1px black;
-
     }
 </style>
