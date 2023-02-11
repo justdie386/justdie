@@ -1,5 +1,5 @@
 <div>
-    I for some reason really, really like making gui, or at least tweaking with gui, and i somewhat hate making video games, hence why i don't make games, and i hate python. I like reading, and yeah thats about it
+    I love making gui, and i really like making discord bots.
 </div>
 
 <style>
